@@ -1,0 +1,11 @@
+I:\Program Internship OCBC\Sesi13\DockerCharterApi\DockerCharterApi\bin\Release\net5.0\publish\DockerCharterApi.exe
+I:\Program Internship OCBC\Sesi13\DockerCharterApi\DockerCharterApi\bin\Release\net5.0\publish\appsettings.Development.json
+I:\Program Internship OCBC\Sesi13\DockerCharterApi\DockerCharterApi\bin\Release\net5.0\publish\appsettings.json
+I:\Program Internship OCBC\Sesi13\DockerCharterApi\DockerCharterApi\bin\Release\net5.0\publish\DockerCharterApi.dll
+I:\Program Internship OCBC\Sesi13\DockerCharterApi\DockerCharterApi\bin\Release\net5.0\publish\DockerCharterApi.deps.json
+I:\Program Internship OCBC\Sesi13\DockerCharterApi\DockerCharterApi\bin\Release\net5.0\publish\DockerCharterApi.runtimeconfig.json
+I:\Program Internship OCBC\Sesi13\DockerCharterApi\DockerCharterApi\bin\Release\net5.0\publish\DockerCharterApi.pdb
+I:\Program Internship OCBC\Sesi13\DockerCharterApi\DockerCharterApi\bin\Release\net5.0\publish\Microsoft.OpenApi.dll
+I:\Program Internship OCBC\Sesi13\DockerCharterApi\DockerCharterApi\bin\Release\net5.0\publish\Swashbuckle.AspNetCore.Swagger.dll
+I:\Program Internship OCBC\Sesi13\DockerCharterApi\DockerCharterApi\bin\Release\net5.0\publish\Swashbuckle.AspNetCore.SwaggerGen.dll
+I:\Program Internship OCBC\Sesi13\DockerCharterApi\DockerCharterApi\bin\Release\net5.0\publish\Swashbuckle.AspNetCore.SwaggerUI.dll
